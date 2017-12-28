@@ -1,4 +1,4 @@
-Business Leftaro, a micro Web Framework for sales platforms
+Webtaro, a micro Web Framework for developers
 =============================
 
 Get ready
