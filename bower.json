@@ -1,0 +1,8 @@
+{
+	"name":"leftaro-business-v0.1",
+	"dependencies": {
+	  "bootstrap-slider": "*",
+	  "bootstrap": "^3.3.7",
+	  "jquery": "^3.2.1"
+	}
+}
